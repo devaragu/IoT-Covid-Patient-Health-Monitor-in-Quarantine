@@ -12,8 +12,8 @@ OakOLED oled;
 float BPM, SpO2;
 
 /*Put your SSID & Password*/
-const char* ssid = "raku_mages_2.4G";  // Enter SSID here
-const char* password = "Rmsd27jlnpj6";  //Enter Password here
+const char* ssid = "XXXXXXXXX";  // Enter SSID here
+const char* password = "XXXXXXXXX";  //Enter Password here
 
 PulseOximeter pox;
 uint32_t tsLastReport = 0;
